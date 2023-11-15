@@ -14,8 +14,8 @@
   "products": [
        {
          "Name": "Пирожное Шу",
-        "ImagePath": "",
-        "Price": 100,
+         "ImagePath": "",
+         "Price": 100,
          "MenuItemId": 3
        },
        {
