@@ -3,40 +3,12 @@
     {
       "id": 1,
       "name": "Чизкейки",
-      "imagePath": "https://static.1000.menu/img/content-v2/05/f0/6402/chizkeik-iz-smetani_1579155436_15_max.jpg",
-      "products": [
-        {
-          "Name": "Вишнёвый чизкейк",
-          "ImagePath": "https://static.1000.menu/img/content-v2/ed/7c/55294/chizkeik-s-vishnei-bez-vypechki-s-tvorojnym-syrom-i-sguschenkoi_1653569661_0_max.jpg",
-          "Price": 250,
-          "MenuItemId": 1
-        },
-        {
-          "Name": "Лимоннный чизкейк",
-          "ImagePath": "https://static.1000.menu/img/content-v2/ed/7c/55294/chizkeik-s-vishnei-bez-vypechki-s-tvorojnym-syrom-i-sguschenkoi_1653569661_0_max.jpg",
-          "Price": 200,
-          "MenuItemId": 2
-        }
-      ]
+      "imagePath": "https://static.1000.menu/img/content-v2/05/f0/6402/chizkeik-iz-smetani_1579155436_15_max.jpg"
     },
     {
       "id": 2,
       "name": "Пирожные",
       "imagePath": "https://static.1000.menu/img/content-v2/fe/e7/39071/pirojnoe-pesochnoe-s-povidlom_1568833617_11_max.jpg",
-      "products": [
-        {
-          "Name": "Пирожное Шу",
-          "ImagePath": "https://static.1000.menu/res/640/img/content-v2/b7/fb/32879/zavarnye-pirojnye-shu_1616519431_20_max.jpg",
-          "Price": 100,
-          "MenuItemId": 3
-        },
-        {
-          "Name": "Муссовое пирожное",
-          "ImagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg",
-          "Price": 50,
-          "MenuItemId": 4
-        }
-      ]
     }
   ]
 }
