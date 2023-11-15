@@ -3,15 +3,8 @@
     {
       "id": 1,
       "name": "Чизкейки",
-      "imagePath": ""
-    },
-    {
-      "id": 2,
-      "name": "Пирожные",
-      "imagePath": ""
-    }
-  ],
-  "products": [
+      "imagePath": "",
+      "products": [
        {
          "id": 2,
          "Name": "Пирожное Шу",
@@ -26,7 +19,14 @@
         "Price": 50,
         "MenuItemId": 4
        }
-    ],
+    ]
+    },
+    {
+      "id": 2,
+      "name": "Пирожные",
+      "imagePath": ""
+    }
+  ],
   "search": [
     {
       "Name": "Муссовое пирожное",
