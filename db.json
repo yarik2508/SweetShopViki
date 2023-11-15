@@ -3,12 +3,12 @@
     {
       "id": 1,
       "name": "Чизкейки",
-      "imagePath": "https://static.1000.menu/img/content-v2/05/f0/6402/chizkeik-iz-smetani_1579155436_15_max.jpg"
+      "imagePath": ""
     },
     {
       "id": 2,
       "name": "Пирожные",
-      "imagePath": "https://static.1000.menu/img/content-v2/fe/e7/39071/pirojnoe-pesochnoe-s-povidlom_1568833617_11_max.jpg",
+      "imagePath": "",
     }
   ]
 }
