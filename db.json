@@ -9,13 +9,13 @@
          "Name": "Пирожное Шу",
          "ImagePath": "",
          "Price": 100,
-         "MenuItemId": 3
+         "MenuItemId": 1
        },
        {
         "Name": "Муссовое пирожное",
         "ImagePath": "",
         "Price": 50,
-        "MenuItemId": 4
+        "MenuItemId": 1
        }
     ]
     },
