@@ -1,12 +1,12 @@
 {
   "categories": [
     {
-      "id": 1,
+      "categoryId": 1,
       "name": "Чизкейки",
       "imagePath": "https://static.1000.menu/img/content-v2/05/f0/6402/chizkeik-iz-smetani_1579155436_15_max.jpg"
     },
     {
-      "id": 2,
+      "categoryId": 2,
       "name": "Пирожные",
       "imagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg"
     }
@@ -46,7 +46,7 @@
         "Price": 270,
         "MenuItemId": 5,
         "categoryId": 1
-        },
+        }
   ],
   "search": [
         {
@@ -78,6 +78,6 @@
         "ImagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg",
         "Price": 270,
         "MenuItemId": 5
-        },
+        }
       ]
 }
