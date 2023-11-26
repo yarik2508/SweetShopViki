@@ -11,7 +11,6 @@
       "imagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg"
     }
   ],
-  {
   "products": [
     {
       "categoryId": 1,
@@ -48,8 +47,7 @@
       "Price": 270,
       "MenuItemId": 5
     }
-  ]
-},
+  ],
   "search": [
     {
       "categoryId": 1,
