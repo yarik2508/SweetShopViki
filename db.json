@@ -13,7 +13,6 @@
   ],
   "products": [
     {
-      "id": 1,
       "categoryId": 2,
       "Name": "Пирожное Шу",
       "ImagePath": "https://static.1000.menu/img/content-v2/b7/fb/32879/zavarnye-pirojnye-shu_1616519431_20_max.jpg",
@@ -21,7 +20,6 @@
       "MenuItemId": 1
     },
     {
-      "id": 2,
       "categoryId": 2,
       "Name": "Муссовое пирожное",
       "ImagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg",
@@ -29,7 +27,6 @@
       "MenuItemId": 2
     },
     {
-      "id": 3,
       "categoryId": 1,
       "Name": "Вишнёвый чизкейк",
       "ImagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg",
@@ -37,7 +34,6 @@
       "MenuItemId": 3
     },
     {
-      "id": 4,
       "categoryId": 1,
       "Name": "Черничный чизкейк",
       "ImagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg",
@@ -45,7 +41,6 @@
       "MenuItemId": 4
     },
     {
-      "id": 5,
       "categoryId": 1,
       "Name": "Лимонный чизкейк",
       "ImagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg",
