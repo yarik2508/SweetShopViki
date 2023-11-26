@@ -28,23 +28,23 @@
         "MenuItemId": 2
       }
     ],
-    "2": [
+    "0": [
       {
-        "categoryId": 2,
+        "categoryId": 0,
         "Name": "Вишнёвый чизкейк",
         "ImagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg",
         "Price": 270,
         "MenuItemId": 3
       },
       {
-        "categoryId": 2,
+        "categoryId": 0,
         "Name": "Черничный чизкейк",
         "ImagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg",
         "Price": 270,
         "MenuItemId": 4
       },
       {
-        "categoryId": 2,
+        "categoryId": 0,
         "Name": "Лимонный чизкейк",
         "ImagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg",
         "Price": 270,
